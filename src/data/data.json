@@ -1,0 +1,99 @@
+{
+    "Header": {
+
+        "title": "Hello, we are Nitro Agility!",
+        "paragraph": "Our team of technology professionals are here to help."
+
+    },
+    "About": {
+        "paragraph": "Nitro Agility is an IT Consulting business and Software House with offices in Europe. We were founded by a team of technology professionals that have experience working with leading companies across multiple sectors. Our team of highly skilled technologists help our clients to accelerate the delivery of technology platforms, whilst on-boarding cutting edge technology.",
+        "Why": [
+            "Experience architecting cutting edge solutions",
+            "We can assess, build, evolve and support your solutions",
+            "We are a multilingual team"
+        ],
+        "Why2": [
+            "You can hire the right skills on demand",
+            "A distributed team ready for you"
+        ]
+    },
+    "Services": [{
+            "icon": "fa fa-tasks",
+            "name": "Agile Delivery",
+            "text": "Feel connected and in control of your project reducing risk and time to delivery."
+        },
+        {
+            "icon": "fa fa-cart-arrow-down",
+            "name": "Software Development",
+            "text": "We’ll build evolve and support your software solutions using either open source and off the shelf technology."
+        },
+        {
+            "icon": "fa fa-plane",
+            "name": "Data Solutions",
+            "text": "Nitro Agility will help you to innovate with your data by building and deploying highly scalable data platforms using cutting edge Data ingestion and streaming services."
+        },
+        {
+            "icon": "fa fa-language",
+            "name": "DevOps",
+            "text": "Let us help your teams to embrace automation, CI/CD and cutting edge tooling."
+        },
+        {
+            "icon": "fa fa-cloud-download",
+            "name": "Cloud Services",
+            "text": "Any journey to cloud-ready platforms can become a daunting task. We’ll advise and support you to implement the appropriate multi-cloud solutions."
+        },
+        {
+            "icon": "fa fa-pie-chart",
+            "name": "Trainings",
+            "text": "Technical training forms a large part of our service, we have provided bespoke training solutions to many enterprise level clients."
+        }
+    ],
+    "Team": [{
+            "img": "img/team/01.jpg",
+            "name": "John Doe",
+            "job": "Director"
+        },
+        {
+            "img": "img/team/02.jpg",
+            "name": "Mike Doe",
+            "job": "Senior Designer"
+        }, {
+            "img": "img/team/03.jpg",
+            "name": "Jane Doe",
+            "job": "Senior Designer"
+        },
+        {
+            "img": "img/team/04.jpg",
+            "name": "Karen Doe",
+            "job": "Project Manager"
+        }
+    ],
+    "Contact": {
+        "address": "Via Lucana 259, 75100, Matera, Italy",
+        "phone": "+39 0835 170 0059",
+        "email": "info@nitroagility.com",
+        "facebook": "https://www.facebook.com/nitroagility",
+        "linkedin": "https://www.linkedin.com/company/nitroagility/"
+    },
+    "Features": [{
+            "icon": "fa fa-comments-o",
+            "title": "Technical Analysis Phase",
+            "text": "We’ll gather the requirements for your application. Study of any existing applications already developed for your company and establish a common vocabulary and learn about your business processes."
+        },
+        {
+            "icon": "fa fa-bullhorn",
+            "title": "Hand over",
+            "text": "Nitro Agility is focused on ensuring that any apps that we deliver will be built to ensure Security, scalability, maintainability and resiliency. Our Solutions Architects provide expertise in software engineering."
+        },
+        {
+            "icon": "fa fa-group",
+            "title": "Agile Delivery",
+            "text": "This step involves choosing development tools and project delivery methods (e.g Agile) based on your project needs. We'll deploy our team of engineers to support your projects. We encourage our clients to nominate a product owner to interface with our TaaS, the effort is minimal and might include attending weekly Sprint meetings."
+        },
+        {
+            "icon": "fa fa-magic",
+            "title": "Application Architecture Design",
+            "text": "We’ll define your solution via diagrams and screen mock-ups etc.. Defining application operational and user flows, hosting and application architecture that will encompass back-office services needed for the application to operate."
+        }
+    ]
+}
